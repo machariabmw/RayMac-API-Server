@@ -1,0 +1,8 @@
+{
+  "version":"1.1.2",
+  "url":"https://github.com/machariabmw/RayMac-API-Server/releases/download/v1.1/Ray-MacServer1.1.2.exe",
+  "notes": [
+    "Hosted API Server On Git",
+    "Added Auto-Updater"
+  ]
+}
